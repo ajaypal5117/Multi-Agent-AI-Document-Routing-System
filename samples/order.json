@@ -1,0 +1,13 @@
+{
+  "id": "ORD-4471",
+  "type": "purchase_order",
+  "timestamp": "2025-10-14T09:00:00Z",
+  "payload": {
+    "buyer": "Northwind Retail",
+    "currency": "INR",
+    "total": 184500.00,
+    "lines": [
+      {"sku": "HX-200", "qty": 20, "unit_price": 9225.00}
+    ]
+  }
+}

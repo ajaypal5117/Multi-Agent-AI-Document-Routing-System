@@ -1,0 +1,4 @@
+{
+  "type": "purchase_order",
+  "payload": {"buyer": "Acme Ltd", "total": 4200}
+}
